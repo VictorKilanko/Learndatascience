@@ -1,4 +1,4 @@
-clear
+clear// to clear any former codes
 
 if c(username)=="USER"{
 	global raw_dta "C:\Users\USER\Desktop\Stata Class\Raw data"
